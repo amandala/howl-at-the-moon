@@ -1,2 +1,2 @@
-# react-native-learning
-Random React Native app for testing out functionality
+# 🐺 Howl at the Moon
+Have you ever wondered the exact perfect time to howl at the moon? Like when it's perfectly, 100%, absolutely full and you can get the most bang for your howl? Fret not, young wolf! We have the answer...
