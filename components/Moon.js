@@ -13,7 +13,7 @@ export default class Moon extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>{this.props.currentMoonData.response[0].moon.phase.name}</Text>
+        <Text>{this.props.currentMoonData}</Text>
       </View>
     );
   }
