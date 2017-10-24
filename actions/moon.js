@@ -9,7 +9,7 @@ export const fetchMoonData = () => dispatch => {
     .then(moonData => {
       dispatch({
         type: MOON_DATA_RETRIEVED,
-        moonData
+        moonData: moonData.response[0].moon.phase
       });
       console.log(moonData.response[0].moon.phase.age);
     })
